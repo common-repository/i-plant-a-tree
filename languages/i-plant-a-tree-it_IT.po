@@ -1,0 +1,164 @@
+# Translation of Plugins - I Plant A Tree - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - I Plant A Tree - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-28 19:40:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - I Plant A Tree - Stable (latest release)\n"
+
+#: iplantatree.php:129
+msgid "CO<sub>2</sub> saved"
+msgstr "CO<sub>2</sub> risparmiato"
+
+#: iplantatree.php:128
+msgid "planted trees"
+msgstr "alberi piantati"
+
+#. Tags of the plugin/theme
+msgid "ipat,widget,i plant a tree"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://lightframefx.de"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Micha"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin shows the count of planted trees via \"I Plant A Tree\", as well as saved CO2."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://lightframefx.de/projects/i-plant-tree-wordpress-plugin/?lang=en"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "I Plant A Tree"
+msgstr ""
+
+#: iplantatree.php:504
+msgid "Text below widget"
+msgstr ""
+
+#: iplantatree.php:500
+msgid "Text above widget"
+msgstr ""
+
+#: iplantatree.php:497
+msgid "right"
+msgstr "Allinea a destra"
+
+#: iplantatree.php:496
+msgid "centered"
+msgstr ""
+
+#: iplantatree.php:495
+msgid "left"
+msgstr "Allinea a sinistra"
+
+#: iplantatree.php:494
+msgid "Widget alignment"
+msgstr ""
+
+#: iplantatree.php:490
+msgid "Title"
+msgstr "Titolo:"
+
+#: iplantatree.php:344
+msgid "Your settings were saved, but no actual data could be retrieved from the IPAT-server."
+msgstr ""
+
+#: iplantatree.php:341
+msgid "Error: Server not accessible."
+msgstr ""
+
+#: iplantatree.php:336
+msgid "save changes"
+msgstr "salva modifiche"
+
+#: iplantatree.php:331
+msgid "The update interval determines how often new data will be gotten from server. Usually a daily update will do."
+msgstr ""
+
+#: iplantatree.php:330
+msgid "24 hours"
+msgstr "24 ore"
+
+#: iplantatree.php:329
+msgid "12 hours"
+msgstr "12 ore"
+
+#: iplantatree.php:328
+msgid "4 hours"
+msgstr "4 ore"
+
+#: iplantatree.php:324
+msgid "update interval"
+msgstr ""
+
+#: iplantatree.php:279
+msgid "widget type"
+msgstr ""
+
+#: iplantatree.php:274
+msgid "This global setting can be overridden manually in the shortcode, if necessary."
+msgstr ""
+
+#: iplantatree.php:273
+msgid "italian"
+msgstr "italiano"
+
+#: iplantatree.php:272
+msgid "english"
+msgstr "inglese"
+
+#: iplantatree.php:271
+msgid "german"
+msgstr "tedesco"
+
+#: iplantatree.php:268
+msgid "language"
+msgstr "linguaggio"
+
+#: iplantatree.php:263
+msgid "Please select if this widget is for a single user or for a team."
+msgstr ""
+
+#: iplantatree.php:262
+msgid "team widget"
+msgstr ""
+
+#: iplantatree.php:261
+msgid "user widget"
+msgstr ""
+
+#: iplantatree.php:258
+msgid "user or team widget"
+msgstr ""
+
+#: iplantatree.php:253
+msgid "If this widget is for a team, please enter the team ID. Otherwise, just leave it at zero."
+msgstr ""
+
+#: iplantatree.php:249
+msgid "team ID"
+msgstr ""
+
+#: iplantatree.php:241
+msgid "user ID"
+msgstr ""
+
+#: iplantatree.php:236 iplantatree.php:516
+msgid "Settings"
+msgstr "Proprietà"
+
+#: iplantatree.php:209
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi per accedere a questa pagina."
